@@ -1,0 +1,11 @@
+e:\Desarrollo\c++\Bomberman\Debug\Bomberman.exe
+e:\Desarrollo\c++\Bomberman\Debug\Bomberman.Juego.resources
+e:\Desarrollo\c++\Bomberman\Debug\Bomberman.vcxproj.GenerateResource.cache
+e:\Desarrollo\c++\Bomberman\Debug\Bomberman.vcxproj.AssemblyReference.cache
+f:\Documentos\usfx\SIS457\Laboratorio\code\Bomberman\Debug\Bomberman.Juego.resources
+f:\Documentos\usfx\SIS457\Laboratorio\code\Bomberman\Debug\Bomberman.vcxproj.GenerateResource.cache
+f:\Documentos\usfx\SIS457\Laboratorio\code\Bomberman\Debug\Bomberman.exe
+D:\SISTEMAS\SIS457-PROGRAMACION AVANZADA\BOMBERMAN\limites de paredes\Debug\Bomberman.vcxproj.AssemblyReference.cache
+D:\SISTEMAS\SIS457-PROGRAMACION AVANZADA\BOMBERMAN\limites de paredes\Debug\Bomberman.Juego.resources
+D:\SISTEMAS\SIS457-PROGRAMACION AVANZADA\BOMBERMAN\limites de paredes\Debug\Bomberman.vcxproj.GenerateResource.cache
+D:\SISTEMAS\SIS457-PROGRAMACION AVANZADA\BOMBERMAN\limites de paredes\Debug\Bomberman.exe

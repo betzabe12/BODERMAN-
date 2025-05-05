@@ -1,0 +1,12 @@
+﻿  Controladora.cpp
+  Juego.cpp
+D:\SISTEMAS\SIS457-PROGRAMACION AVANZADA\BOMBERMAN\limites de paredes\Juego.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+D:\SISTEMAS\SIS457-PROGRAMACION AVANZADA\BOMBERMAN\limites de paredes\Juego.h(120,1): warning C4065: la instrucción switch contiene etiquetas 'default' pero no etiquetas 'case'
+  Jugador.cpp
+D:\SISTEMAS\SIS457-PROGRAMACION AVANZADA\BOMBERMAN\limites de paredes\Jugador.cpp(34,90): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\SISTEMAS\SIS457-PROGRAMACION AVANZADA\BOMBERMAN\limites de paredes\Jugador.cpp(34,64): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\SISTEMAS\SIS457-PROGRAMACION AVANZADA\BOMBERMAN\limites de paredes\Jugador.cpp(52,74): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\SISTEMAS\SIS457-PROGRAMACION AVANZADA\BOMBERMAN\limites de paredes\Jugador.cpp(52,48): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código...
+  Cancha.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Bomberman.vcxproj -> D:\SISTEMAS\SIS457-PROGRAMACION AVANZADA\BOMBERMAN\limites de paredes\Debug\Bomberman.exe
