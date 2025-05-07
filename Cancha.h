@@ -9,7 +9,7 @@
 using namespace System::Drawing;
 //using CanchaArray = std::unique_ptr<CBloque>[FILAS][COLUMNAS];
 // using CanchaArray = std::array<std::array<std::unique_ptr<CBloque>, FILAS>, COLUMNAS>;
-using CanchaArray = std::array<std::array<std::unique_ptr<CBloque>, FILAS>, COLUMNAS>;
+using CanchaArray = std::array<std::array<std::unique_ptr<CBloque>, COLUMNAS>, FILAS>;
 
 class CCancha {
 private:
